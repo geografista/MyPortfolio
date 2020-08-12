@@ -1,0 +1,45 @@
+body {
+    font-family: Lato, Arial, sans-serif;
+    background-image: url(img/gory.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color:cornflowerblue;
+    background-attachment: fixed;
+}
+
+.navbar-brand p {
+
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+}
+
+.bg-invisible {
+    background-color: transparent;
+}
+
+.dropdown-menu {
+    background-color: transparent;
+}
+#w{
+    height:90vh;
+}
+.dropdown-menu > a:hover{
+   color:black; 
+background-color: transparent;
+}
+#opis{
+    color: aliceblue;
+    padding: 0 50px;
+    text-align: justify;
+    opacity: 0.8;
+}
+#foto img{
+    margin-bottom: 30px;
+    width: 100%;
+    border-radius: 10px;
+    border-radius: 10px;
+}
+#opis img{
+    width: 100%;
+}
